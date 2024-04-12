@@ -1,0 +1,14 @@
+C:\Works\cashregister\bin\Debug\net8.0\cashregister.exe
+C:\Works\cashregister\bin\Debug\net8.0\cashregister.deps.json
+C:\Works\cashregister\bin\Debug\net8.0\cashregister.runtimeconfig.json
+C:\Works\cashregister\bin\Debug\net8.0\cashregister.dll
+C:\Works\cashregister\bin\Debug\net8.0\cashregister.pdb
+C:\Works\cashregister\obj\Debug\net8.0\cashregister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\cashregister\obj\Debug\net8.0\cashregister.AssemblyInfoInputs.cache
+C:\Works\cashregister\obj\Debug\net8.0\cashregister.AssemblyInfo.cs
+C:\Works\cashregister\obj\Debug\net8.0\cashregister.csproj.CoreCompileInputs.cache
+C:\Works\cashregister\obj\Debug\net8.0\cashregister.dll
+C:\Works\cashregister\obj\Debug\net8.0\refint\cashregister.dll
+C:\Works\cashregister\obj\Debug\net8.0\cashregister.pdb
+C:\Works\cashregister\obj\Debug\net8.0\cashregister.genruntimeconfig.cache
+C:\Works\cashregister\obj\Debug\net8.0\ref\cashregister.dll
